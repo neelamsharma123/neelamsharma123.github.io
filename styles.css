@@ -2,11 +2,15 @@ img{
     width: 300px;
 }
 
-body {
-    text-align: center;
-}
 
 body {
+    color: white;
     text-align: center;
-    font-family: "SnellRoundhand";
+    font-family: "Bodoni 72 Oldstyle";
+    background-image: url("http://25.media.tumblr.com/tumblr_m6k7a1UTct1ql3y8so1_500.gif");
+    background-size: 100% 100%;
+}
+
+img{
+    width:300px;
 }
